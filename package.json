@@ -1,0 +1,20 @@
+{
+  "name": "theartofwar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fast-glob": "^3.2.4",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "superagent": "^5.3.1"
+  }
+}
